@@ -8,7 +8,7 @@ ____
 These are some of the technologies and tools that I work with:
 
 Programming Languages: 
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java)
+![Java](https://img.shields.io/badge/-Java-ED1D25?style=flat-square&logo=java)
 ![Quarkus](https://img.shields.io/badge/-Quarkus-000000?style=flat-square&logo=quarkus&logoColor=4695EB)
 ![Angular](https://img.shields.io/badge/-Angular-FFFFFF?style=flat-square&logo=angular&logoColor=DD0031)
 ![Python](https://img.shields.io/badge/-Python-ffd343?style=flat-square&logo=python&logoColor=#3776AB)
